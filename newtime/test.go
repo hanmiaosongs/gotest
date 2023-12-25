@@ -1,5 +1,5 @@
 package newtime
 improt "fmt"
-func main(){
+func PP(){
 	fmt.Println(222)
 }
